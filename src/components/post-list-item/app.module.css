@@ -1,0 +1,9 @@
+.bg {
+  background-color: pink;
+}
+.bgBlock {
+  background-color: black;
+}
+.borderBottomPink {
+  border-bottom: 2px solid pink;
+}
